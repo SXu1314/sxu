@@ -1,0 +1,332 @@
+ID, 	annotation.GO MOLECULAR_FUNCTION
+?, 	
+YAL003W, 	translation elongation factor activity
+YAL030W, 	v-SNARE activity
+YAL038W, 	pyruvate kinase activity
+YAL040C, 	cyclin-dependent protein kinase regulator activity
+YAR007C, 	damaged DNA binding, single-stranded DNA binding
+YBL005W, 	DNA binding, transcriptional activator activity
+YBL021C, 	transcriptional activator activity
+YBL026W, 	RNA binding, RNA splicing factor activity, transesterification mechanism
+YBL050W, 	soluble NSF attachment protein activity
+YBL069W, 	molecular_function
+YBL079W, 	structural molecule activity
+YBR018C, 	UTP:galactose-1-phosphate uridylyltransferase activity
+YBR019C, 	UDP-glucose 4-epimerase activity, aldose 1-epimerase activity
+YBR020W, 	galactokinase activity, transcription regulator activity
+YBR043C, 	multidrug efflux pump activity
+YBR045C, 	protein phosphatase 1 binding, protein phosphatase type 1 regulator activity
+YBR050C, 	protein phosphatase type 1 regulator activity
+YBR072W, 	unfolded protein binding
+YBR093C, 	acid phosphatase activity, nucleoside-triphosphatase activity, nucleoside-triphosphate diphosphatase activity
+YBR109C, 	calcium ion binding, calcium-dependent protein binding, protein binding
+YBR112C, 	general transcriptional repressor activity, transcription coactivator activity
+YBR118W, 	translation elongation factor activity
+YBR135W, 	protein kinase activator activity
+YBR155W, 	Hsp70 protein binding, Hsp90 protein binding
+YBR160W, 	cyclin-dependent protein kinase activity
+YBR170C, 	molecular_function
+YBR190W, 	
+YBR217W, 	protein tag
+YBR248C, 	imidazoleglycerol-phosphate synthase activity
+YBR274W, 	protein kinase activity
+YCL030C, 	histidinol dehydrogenase activity, phosphoribosyl-AMP cyclohydrolase activity, phosphoribosyl-ATP diphosphatase activity
+YCL032W, 	SAM domain binding, protein kinase regulator activity
+YCL040W, 	glucokinase activity
+YCL067C, 	transcription corepressor activity
+YCR012W, 	phosphoglycerate kinase activity
+YCR084C, 	general transcriptional repressor activity
+YCR086W, 	molecular_function
+YDL013W, 	molecular_function
+YDL014W, 	methyltransferase activity
+YDL023C, 	
+YDL030W, 	RNA binding
+YDL063C, 	molecular_function
+YDL075W, 	structural constituent of ribosome
+YDL078C, 	L-malate dehydrogenase activity
+YDL081C, 	structural constituent of ribosome
+YDL088C, 	structural molecule activity
+YDL113C, 	lipid binding, phosphatidylinositol 3-phosphate binding
+YDL130W, 	structural constituent of ribosome
+YDL194W, 	glucose binding, glucose transporter activity, receptor activity
+YDL215C, 	glutamate dehydrogenase activity
+YDL236W, 	4-nitrophenylphosphatase activity, alkaline phosphatase activity
+YDR009W, 	transcriptional activator activity
+YDR032C, 	molecular_function
+YDR050C, 	triose-phosphate isomerase activity
+YDR070C, 	molecular_function
+YDR100W, 	molecular_function
+YDR103W, 	MAP-kinase scaffold activity
+YDR142C, 	peroxisome targeting sequence binding, peroxisome targeting signal-2 binding
+YDR146C, 	transcriptional activator activity
+YDR167W, 	general RNA polymerase II transcription factor activity
+YDR171W, 	unfolded protein binding
+YDR174W, 	RNA polymerase I transcription factor activity, single-stranded DNA binding
+YDR184C, 	molecular_function
+YDR244W, 	peroxisome targeting sequence binding, peroxisome targeting signal-1 binding
+YDR277C, 	molecular_function
+YDR299W, 	molecular_function
+YDR309C, 	small GTPase regulator activity
+YDR311W, 	general RNA polymerase II transcription factor activity
+YDR323C, 	molecular_function
+YDR335W, 	importin-alpha export receptor activity, protein binding
+YDR354W, 	anthranilate phosphoribosyltransferase activity
+YDR382W, 	structural constituent of ribosome
+YDR395W, 	protein carrier activity
+YDR412W, 	molecular_function
+YDR429C, 	translation initiation factor activity
+YDR461W, 	mating pheromone activity
+YEL009C, 	DNA binding, transcription factor activity
+YEL015W, 	molecular_function
+YEL039C, 	electron carrier activity
+YEL041W, 	NAD+ kinase activity, NADH kinase activity
+YER040W, 	transcription factor activity, transcriptional activator activity
+YER052C, 	aspartate kinase activity
+YER054C, 	protein phosphatase regulator activity
+YER056CA, 	
+YER062C, 	glycerol-1-phosphatase activity
+YER065C, 	isocitrate lyase activity
+YER074W, 	structural constituent of ribosome
+YER079W, 	molecular_function
+YER081W, 	phosphoglycerate dehydrogenase activity
+YER090W, 	anthranilate synthase activity
+YER102W, 	structural constituent of ribosome
+YER103W, 	ATPase activity, unfolded protein binding
+YER110C, 	protein carrier activity
+YER111C, 	DNA binding, transcription factor activity
+YER112W, 	RNA binding, RNA splicing factor activity, transesterification mechanism
+YER116C, 	molecular_function
+YER124C, 	molecular_function
+YER133W, 	protein phosphatase type 1 activity
+YER143W, 	SNARE binding
+YER145C, 	iron ion transporter activity
+YER179W, 	double-stranded DNA binding, single-stranded DNA binding
+YFL017C, 	glucosamine 6-phosphate N-acetyltransferase activity
+YFL026W, 	mating-type alpha-factor pheromone receptor activity
+YFL038C, 	GTPase activity
+YFL039C, 	structural constituent of cytoskeleton
+YFR014C, 	calmodulin-dependent protein kinase I activity
+YFR034C, 	transcription factor activity
+YFR037C, 	molecular_function
+YGL008C, 	hydrogen-exporting ATPase activity, phosphorylative mechanism
+YGL013C, 	DNA binding, transcriptional activator activity
+YGL035C, 	specific RNA polymerase II transcription factor activity
+YGL044C, 	RNA binding, protein heterodimerization activity
+YGL073W, 	transcription factor activity
+YGL097W, 	signal transducer activity
+YGL106W, 	microfilament motor activity, myosin II heavy chain binding
+YGL115W, 	protein kinase activator activity
+YGL122C, 	poly(A) binding
+YGL134W, 	cyclin-dependent protein kinase regulator activity
+YGL153W, 	protein binding
+YGL161C, 	Rab GTPase binding
+YGL166W, 	ligand-regulated transcription factor activity
+YGL202W, 	aromatic-amino-acid transaminase activity
+YGL208W, 	AMP-activated protein kinase activity
+YGL229C, 	protein serine/threonine phosphatase activity
+YGL237C, 	transcriptional activator activity
+YGR009C, 	t-SNARE activity
+YGR014W, 	osmosensor activity
+YGR019W, 	4-aminobutyrate transaminase activity
+YGR046W, 	molecular_function
+YGR048W, 	protein binding
+YGR058W, 	molecular_function
+YGR074W, 	RNA splicing factor activity, transesterification mechanism, mRNA binding
+YGR085C, 	structural constituent of ribosome
+YGR088W, 	catalase activity
+YGR108W, 	cyclin-dependent protein kinase regulator activity
+YGR136W, 	molecular_function
+YGR203W, 	phosphoric monoester hydrolase activity, protein tyrosine phosphatase activity
+YGR218W, 	protein carrier activity
+YGR254W, 	phosphopyruvate hydratase activity
+YHR005C, 	GTPase activity
+YHR030C, 	MAP kinase activity
+YHR053C, 	copper ion binding
+YHR055C, 	copper ion binding
+YHR071W, 	cyclin-dependent protein kinase regulator activity
+YHR084W, 	transcription factor activity
+YHR115C, 	molecular_function
+YHR135C, 	casein kinase I activity
+YHR141C, 	structural constituent of ribosome
+YHR171W, 	APG12 activating enzyme activity, APG8 activating enzyme activity
+YHR174W, 	phosphopyruvate hydratase activity
+YHR179W, 	NADPH dehydrogenase activity
+YHR198C, 	molecular_function
+YIL015W, 	aspartic-type endopeptidase activity
+YIL045W, 	protein phosphatase type 1 regulator activity
+YIL052C, 	structural constituent of ribosome
+YIL061C, 	U1 snRNA binding, mRNA binding
+YIL069C, 	structural constituent of ribosome
+YIL070C, 	molecular_function
+YIL074C, 	phosphoglycerate dehydrogenase activity
+YIL105C, 	phosphoinositide binding
+YIL113W, 	MAP kinase phosphatase activity
+YIL133C, 	RNA binding, structural constituent of ribosome
+YIL143C, 	DNA helicase activity, general RNA polymerase II transcription factor activity
+YIL160C, 	acetyl-CoA C-acyltransferase activity
+YIL162W, 	beta-fructofuranosidase activity
+YIR009W, 	RNA binding
+YJL013C, 	molecular_function
+YJL030W, 	molecular_function
+YJL036W, 	lipid binding, phosphatidylinositol 3-phosphate binding
+YJL089W, 	specific RNA polymerase II transcription factor activity
+YJL157C, 	cyclin-dependent protein kinase inhibitor activity
+YJL159W, 	structural constituent of cell wall
+YJL190C, 	structural constituent of ribosome
+YJL194W, 	ATPase activity, DNA clamp loader activity, protein binding
+YJL203W, 	RNA binding
+YJL219W, 	fructose transporter activity, galactose transporter activity, glucose transporter activity, mannose transporter activity
+YJR022W, 	RNA binding, RNA splicing factor activity, transesterification mechanism
+YJR048W, 	electron carrier activity
+YJR060W, 	DNA binding, centromeric DNA binding
+YJR066W, 	phosphatidylinositol 3-kinase activity, protein binding, protein kinase activity
+YJR109C, 	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity
+YKL001C, 	adenylylsulfate kinase activity
+YKL012W, 	RNA binding
+YKL028W, 	general RNA polymerase II transcription factor activity
+YKL074C, 	RNA splicing factor activity, transesterification mechanism, mRNA binding
+YKL101W, 	protein kinase activity
+YKL109W, 	transcriptional activator activity
+YKL161C, 	protein kinase activity
+YKL204W, 	eukaryotic initiation factor 4E binding
+YKL211C, 	anthranilate synthase activity, indole-3-glycerol-phosphate synthase activity
+YKR026C, 	enzyme regulator activity, guanyl-nucleotide exchange factor activity, translation initiation factor activity
+YKR097W, 	phosphoenolpyruvate carboxykinase (ATP) activity
+YKR099W, 	RNA polymerase II transcription factor activity
+YLL019C, 	protein serine/threonine kinase activity, protein-tyrosine kinase activity
+YLL021W, 	cytoskeletal regulatory protein binding
+YLL028W, 	spermidine transporter activity, spermine transporter activity
+YLR044C, 	pyruvate decarboxylase activity
+YLR075W, 	structural constituent of ribosome
+YLR081W, 	galactose transporter activity, glucose transporter activity
+YLR109W, 	thioredoxin peroxidase activity
+YLR116W, 	RNA binding
+YLR117C, 	protein binding
+YLR134W, 	pyruvate decarboxylase activity
+YLR153C, 	acetate-CoA ligase activity
+YLR175W, 	pseudouridylate synthase activity
+YLR191W, 	protein binding
+YLR197W, 	molecular_function
+YLR214W, 	ferric-chelate reductase activity
+YLR229C, 	GTPase activity, signal transducer activity
+YLR249W, 	translation elongation factor activity
+YLR256W, 	specific RNA polymerase II transcription factor activity
+YLR258W, 	glycogen (starch) synthase activity
+YLR264W, 	structural constituent of ribosome
+YLR284C, 	dodecenoyl-CoA delta-isomerase activity
+YLR293C, 	GTPase activity
+YLR310C, 	Ras guanyl-nucleotide exchange factor activity
+YLR319C, 	cytoskeletal regulatory protein binding
+YLR321C, 	protein binding
+YLR340W, 	structural constituent of ribosome
+YLR345W, 	6-phosphofructo-2-kinase activity
+YLR362W, 	MAP kinase kinase kinase activity, SAM domain binding
+YLR377C, 	fructose-bisphosphatase activity
+YLR432W, 	IMP dehydrogenase activity
+YLR452C, 	GTPase activator activity
+YML007W, 	transcription factor activity
+YML024W, 	structural constituent of ribosome
+YML032C, 	DNA strand annealing activity, recombinase activity
+YML051W, 	specific transcriptional repressor activity
+YML054C, 	L-lactate dehydrogenase (cytochrome) activity
+YML064C, 	GTPase activity, protein binding
+YML074C, 	peptidyl-prolyl cis-trans isomerase activity
+YML114C, 	RNA polymerase II transcription factor activity
+YML123C, 	inorganic phosphate transporter activity, manganese ion transporter activity
+YMR005W, 	RNA polymerase II transcription factor activity
+YMR021C, 	specific RNA polymerase II transcription factor activity
+YMR043W, 	DNA bending activity, DNA binding, DNA replication origin binding, RNA polymerase II transcription factor activity
+YMR044W, 	protein binding
+YMR058W, 	ferroxidase activity, iron ion transporter activity
+YMR108W, 	FAD binding, acetolactate synthase activity
+YMR117C, 	structural constituent of cytoskeleton
+YMR138W, 	GTP binding
+YMR146C, 	translation initiation factor activity
+YMR183C, 	t-SNARE activity
+YMR186W, 	ATPase activity, coupled, unfolded protein binding
+YMR255W, 	molecular_function
+YMR291W, 	protein kinase activity
+YMR300C, 	amidophosphoribosyltransferase activity
+YMR309C, 	translation initiation factor activity
+YMR311C, 	enzyme activator activity
+YNL036W, 	carbonate dehydratase activity
+YNL047C, 	phosphoinositide binding
+YNL050C, 	molecular_function
+YNL069C, 	RNA binding, structural constituent of ribosome
+YNL091W, 	molecular_function
+YNL098C, 	GTPase activity
+YNL113W, 	DNA-directed RNA polymerase activity
+YNL116W, 	molecular_function
+YNL117W, 	malate synthase activity
+YNL135C, 	peptidyl-prolyl cis-trans isomerase activity
+YNL145W, 	mating pheromone activity
+YNL154C, 	casein kinase I activity
+YNL164C, 	molecular_function
+YNL167C, 	RNA polymerase II transcription factor activity
+YNL189W, 	protein carrier activity
+YNL199C, 	transcriptional activator activity
+YNL214W, 	protein binding
+YNL216W, 	DNA binding, transcription factor activity
+YNL236W, 	RNA polymerase II transcription mediator activity
+YNL301C, 	structural constituent of ribosome
+YNL307C, 	glycogen synthase kinase 3 activity, protein threonine/tyrosine kinase activity
+YNL311C, 	protein binding
+YNL312W, 	DNA binding
+YNR007C, 	APG8 conjugating enzyme activity
+YNR050C, 	saccharopine dehydrogenase (NADP+, L-glutamate-forming) activity
+YNR053C, 	GTPase activity
+YOL016C, 	calcium- and calmodulin-dependent protein kinase activity
+YOL051W, 	RNA polymerase II transcription mediator activity
+YOL058W, 	argininosuccinate synthase activity
+YOL059W, 	glycerol-3-phosphate dehydrogenase (NAD+) activity
+YOL086C, 	alcohol dehydrogenase activity
+YOL120C, 	structural constituent of ribosome
+YOL123W, 	RNA binding
+YOL127W, 	RNA binding, structural constituent of ribosome
+YOL136C, 	6-phosphofructo-2-kinase activity
+YOL149W, 	enzyme activator activity, m7G(5')pppN diphosphatase activity, mRNA binding
+YOL156W, 	fructose transporter activity, galactose transporter activity, glucose transporter activity, mannose transporter activity
+YOR036W, 	t-SNARE activity
+YOR039W, 	protein kinase CK2 regulator activity
+YOR089C, 	GTPase activity
+YOR120W, 	aldo-keto reductase activity
+YOR167C, 	structural constituent of ribosome
+YOR178C, 	heat shock protein binding, protein phosphatase type 1 regulator activity, structural molecule activity
+YOR202W, 	imidazoleglycerol-phosphate dehydratase activity
+YOR204W, 	RNA helicase activity
+YOR212W, 	signal transducer activity
+YOR215C, 	molecular_function
+YOR264W, 	molecular_function
+YOR290C, 	DNA-dependent ATPase activity, general RNA polymerase II transcription factor activity
+YOR303W, 	carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity
+YOR310C, 	molecular_function
+YOR315W, 	specific RNA polymerase II transcription factor activity
+YOR326W, 	actin filament binding, calmodulin binding, microfilament motor activity
+YOR327C, 	v-SNARE activity
+YOR355W, 	molecular_function
+YOR361C, 	translation initiation factor activity
+YOR362C, 	endopeptidase activity
+YPL031C, 	cyclin-dependent protein kinase activity
+YPL075W, 	DNA binding, transcriptional activator activity
+YPL089C, 	DNA bending activity, DNA binding, transcriptional activator activity
+YPL111W, 	arginase activity, manganese ion binding, zinc ion binding
+YPL131W, 	RNA binding, structural constituent of ribosome
+YPL149W, 	molecular_function
+YPL201C, 	molecular_function
+YPL211W, 	molecular_function
+YPL222W, 	molecular_function
+YPL240C, 	ATPase activity, coupled, unfolded protein binding
+YPL248C, 	transcription factor activity, transcriptional activator activity
+YPR010C, 	DNA-directed RNA polymerase activity
+YPR035W, 	glutamate-ammonia ligase activity
+YPR041W, 	GTPase activator activity, translation initiation factor activity
+YPR048W, 	molecular_function
+YPR062W, 	cytosine deaminase activity
+YPR080W, 	translation elongation factor activity
+YPR102C, 	structural constituent of ribosome
+YPR110C, 	DNA-directed RNA polymerase activity
+YPR113W, 	CDP-diacylglycerol-inositol 3-phosphatidyltransferase activity
+YPR119W, 	cyclin-dependent protein kinase regulator activity
+YPR124W, 	copper uptake transporter activity
+YPR145W, 	asparagine synthase (glutamine-hydrolyzing) activity
+YPR167C, 	phosphoadenylyl-sulfate reductase (thioredoxin) activity
